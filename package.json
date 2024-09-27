@@ -18,10 +18,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yourusername/pokemon-stat-calculator.git"
+        "url": "git+https://github.com/zahidmahmood269/pokemonCalculator-npm.git"
     },
     "homepage": "https://pokemontypecalculator.org/",
     "bugs": {
-        "url": "https://github.com/yourusername/pokemon-stat-calculator/issues"
+        "url": "https://github.com/zahidmahmood269/pokemonCalculator-npm/issues"
     }
 }
