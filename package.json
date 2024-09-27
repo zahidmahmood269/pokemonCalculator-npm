@@ -23,5 +23,8 @@
     "homepage": "https://pokemontypecalculator.org/",
     "bugs": {
         "url": "https://github.com/zahidmahmood269/pokemonCalculator-npm/issues"
-    }
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+      }
 }
