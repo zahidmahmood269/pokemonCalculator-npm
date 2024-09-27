@@ -1,0 +1,27 @@
+{
+   "name": "@zahidmahmood/pokemon-stat-calculator",
+    "version": "1.0.0",
+    "description": "A comprehensive tool for calculating Pokémon stats",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [
+        "pokemon",
+        "calculator",
+        "stats",
+        "IV",
+        "EV",
+        "nature"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yourusername/pokemon-stat-calculator.git"
+    },
+    "homepage": "https://pokemontypecalculator.org/",
+    "bugs": {
+        "url": "https://github.com/yourusername/pokemon-stat-calculator/issues"
+    }
+}
